@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+    int noi,price;
+    float value,dis value;
+    
+    expenses=noi*price;
+    printf("%d%d%%f",noi,price,value);
+    scanf("%d%d",&noi,&price);
+    if(value>1000)
+    {
+     dis   
+    
+    printf(" dis expenses=%f",dis expenses);
+    }
+    return 0;
+}
